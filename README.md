@@ -1,7 +1,5 @@
 # yamlHandler
 
-## Investigation
-
 
 ## Ticket :
 

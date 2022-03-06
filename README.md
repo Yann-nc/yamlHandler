@@ -233,7 +233,7 @@ L’API que j’ai créée consiste à GET des musiques et leur auteur.
 - L’API build et run bien
 - Depuis Postman on est capable de récupérer la musique présente dans le fichier yaml
     
-    ![Screenshot 2022-03-06 at 16.19.46.png](Investigat%20c17ae/Screenshot_2022-03-06_at_16.19.46.png)
+    <img width="1009" alt="Screenshot_2022-03-06_at_16 19 46" src="https://user-images.githubusercontent.com/32078770/156930729-86a65572-dedf-4c48-ad18-64c0e2df22e9.png">
     
 
 ## Étape suivante

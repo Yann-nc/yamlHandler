@@ -1,0 +1,14 @@
+management:
+  endpoints:
+    web:
+      base-path: /
+      exposure:
+        include: "*"
+  endpoint:
+    metrics:
+      enabled: true
+
+server:
+  error.whitelabel.enabled: false
+  servlet:
+    context-path: /yaml-handler

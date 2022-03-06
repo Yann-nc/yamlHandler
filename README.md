@@ -263,16 +263,16 @@ L’API que j’ai créée consiste à GET des musiques et leur auteur.
     ---
     playlistId: 1
     playlist:
-    	- title: Ciao Adios
-    	  author: Anne Marie
-    	- title: No Money
-    	  author: Galantis
-    	- title: Solo (feat. Demi Lovato)
-    	  author: Clean Bandit
-    	- title: I See You
-    	  author: PLUM
-    	- title: Chakra
-    	  author: Fakear
+        - title: Ciao Adios
+          author: Anne Marie
+        - title: No Money
+          author: Galantis
+        - title: Solo (feat. Demi Lovato)
+          author: Clean Bandit
+        - title: I See You
+          author: PLUM
+        - title: Chakra
+          author: Fakear
     ```
     
 

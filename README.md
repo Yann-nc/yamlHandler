@@ -1,16 +1,16 @@
 # yamlHandler
 
-# Investigation
+## Investigation
 
 ---
 
-# Ticket :
+## Ticket :
 
 **ETQDev, je sais charger un fichier yaml dans du code Java**
 
 [https://trello.com/c/3aqxDcVT/309-2-etqdev-je-sais-charger-un-fichier-yaml-dans-du-code-java](https://trello.com/c/3aqxDcVT/309-2-etqdev-je-sais-charger-un-fichier-yaml-dans-du-code-java)
 
-# Stratégie technique détaillée
+## Stratégie technique détaillée
 
 ---
 
@@ -232,7 +232,7 @@ L’API que j’ai créée consiste à GET des musiques et leur auteur.
     ```
     
 
-# Résultat
+## Résultat
 
 - L’API build et run bien
 - Depuis Postman on est capable de récupérer la musique présente dans le fichier yaml
@@ -240,7 +240,7 @@ L’API que j’ai créée consiste à GET des musiques et leur auteur.
     ![Screenshot 2022-03-06 at 16.19.46.png](Investigat%20c17ae/Screenshot_2022-03-06_at_16.19.46.png)
     
 
-# Étape suivante
+## Étape suivante
 
 - Comme on a pu le voir, on est uniquement capable d’importer une seule musique
 - Ajouter plusieurs musiques avec le fichier yaml suivant n’est pas possible :
@@ -280,7 +280,7 @@ L’API que j’ai créée consiste à GET des musiques et leur auteur.
     ```
     
 
-# Ressources
+## Ressources
 
 - ****Reading and Writing YAML Files in Java with Jackson (****[stackabuse.com](http://stackabuse.com/))
     

@@ -2,7 +2,6 @@
 
 ## Investigation
 
----
 
 ## Ticket :
 
@@ -12,7 +11,6 @@
 
 ## Stratégie technique détaillée
 
----
 
 - Créer un projet Java vide qui build et run (j’ai nommé le mien : yamlHandler)
 
